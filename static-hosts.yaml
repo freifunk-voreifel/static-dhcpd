@@ -1,0 +1,30 @@
+static_hosts:
+    cpi0:
+        name: cpi0 
+        MAC: b8:27:eb:bd:c0:b9
+        IPv4: 10.152.64.100
+
+    cpi1:
+        name: cpi1
+        MAC: b8:27:eb:d0:44:2e
+        IPv4: 10.152.64.101
+
+    cpi2:
+        name: cpi2
+        MAC: b8:27:eb:cd:45:be
+        IPv4: 10.152.64.102
+    
+    cpi3:
+        name: cpi3
+        MAC: b8:27:eb:4c:a5:28
+        IPv4: 10.152.64.103
+    
+    thomas_smartphone:
+        name: "Thomas-Handy"
+        MAC: 6c:c7:ec:52:5e:04
+        IPv4: 10.152.64.104
+
+
+
+
+
